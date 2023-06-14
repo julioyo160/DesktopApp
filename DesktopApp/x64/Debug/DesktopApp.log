@@ -1,0 +1,3 @@
+﻿  HelloWindowsDesktop.cpp.cpp
+C:\Users\julio\OneDrive\Escritorio\DesktopApp\DesktopApp\HelloWindowsDesktop.cpp.cpp(132,30): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  DesktopApp.vcxproj -> C:\Users\julio\OneDrive\Escritorio\DesktopApp\x64\Debug\DesktopApp.exe
